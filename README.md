@@ -5,3 +5,6 @@ This addon sends mouse selected text to regular clipboard:
 > on mouseup, send document.getSelection() to navigator.clipboard. 
 
 It is only a 4 lines content_script!
+
+
+NB: this is mostly https://addons.mozilla.org/fr/firefox/addon/copy-on-select/ with a github a link to see the source code!
