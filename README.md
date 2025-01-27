@@ -6,5 +6,13 @@ This addon sends mouse selected text to regular clipboard:
 
 It is only a 4 lines content_script!
 
+## Warning
 
-NB: this is mostly https://addons.mozilla.org/fr/firefox/addon/copy-on-select/ with a github a link to see the source code!
+* after install of module, you must reload any existing pages before selecting. Otherwise it will NOT work.
+* do not test it on https://addons.mozilla.org/, it will not work
+
+
+## Similar tools
+
+* this addon is mostly https://addons.mozilla.org/fr/firefox/addon/copy-on-select/ with a github a link to see the source code!
+* it does the same thing as VSCode https://marketplace.visualstudio.com/items?itemName=dinhani.copy-on-select
